@@ -1,4 +1,4 @@
-title: Course Title Here
-description: A description of the course.
+title: Teaching Python Professional Development Course
+description: This course is for use by teachers in the development of their own Python Classes
 programming_language: python
 from: python-base-prod:21
